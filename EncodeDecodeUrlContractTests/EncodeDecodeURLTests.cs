@@ -7,7 +7,7 @@ namespace EncodeDecodeUrlContractTests
         [Fact]
         public void Test1()
         {
-
+            var json = @"";
         }
     }
 }
